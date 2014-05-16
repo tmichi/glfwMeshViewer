@@ -9,7 +9,7 @@ Requirement
 - Eigen http://eigen.tuxfamily.org 
 - GLFW http://www.glfw.org
 - OpenGL and GLU
-- CMake http://www.cmake.org (option)
+- CMake http://www.cmake.org (I use this for creating *sln and *vcproj files. You can build this project by creating prject files manually.)
 
 How to build (Windows)
 -----------------------
