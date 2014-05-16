@@ -25,7 +25,7 @@ This is a simple mesh viewer with arc-ball rotations. type glfwMeshViewer.exe in
 
 License 
 -------
-BSD license (See LICENSE.txt)
+New BSD license (See LICENSE.txt)
 
 Contact 
 -------
