@@ -24,6 +24,6 @@ endif()
 ADD_EXECUTABLE(glfwMeshViewer Mesh.hpp Tokenizer.hpp Camera.cpp Camera.hpp Window.cpp Window.hpp main.cpp)
 
 if(APPLE)
-TARGET_LINK_LIBRARIES(sample glfw3 "-framework OpenGL")
+TARGET_LINK_LIBRARIES(glfwMeshViewer  glfw3 "-framework OpenGL")
 endif()
 
